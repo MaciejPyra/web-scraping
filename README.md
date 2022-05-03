@@ -53,5 +53,5 @@ The whole process could be dived into 5 steps:
 5. Use locators to find the data in the HTML
 6. Save the data in a CSV file
 
-Initially, tool makes HTTP requests respectively to www.euro.com.pl and www.komputronik.pl websites. The scraper then loads the entire HTML code for the page in question. Then, received HTMLs are parsed by BeautifulSoup library and program starts automatic extraction of the interesting data from both pages. After analyzing one specific page, a link to the following one is searched for in its HTML. Thanks to that, tool is self-sufficient and can jump between pages. Finally, the most significant data is saved into a CSV format that is more useful to the end user.
+Initially, tool makes HTTP requests respectively to www.euro.com.pl and www.komputronik.pl websites. The scraper loads the entire HTML code for the page in question. Then, received HTML is parsed by BeautifulSoup library and program starts automatic extraction of the interesting data from a given page. After analyzing one specific page, a link to the following one is searched for in its HTML. Thanks to that, tool is self-sufficient and program can jump between pages without user involvement. Finally, the most significant data is saved into a CSV format that is more useful to the end user.
 
