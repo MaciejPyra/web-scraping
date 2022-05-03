@@ -39,7 +39,8 @@ Data was collected by Eran Eidinger, Roee Enbar and Tal Hassner and was presente
 <a name="intro3"></a>
 ### Technology Stack
 * Python,
-* DS/ML frameworks -> NumPy, pandas, Matplotlib, seaborn, scikit-learn, TensorFlow.
+* Python HTTP requests library -> to open URL and get to the website,
+* Python BeautifulSoup library -> to scrape data from the website,
 
 
 <a name="desc"></a>
@@ -47,11 +48,13 @@ Data was collected by Eran Eidinger, Roee Enbar and Tal Hassner and was presente
 
 <a name="desc1"></a>
 ### How does it work?
-My web scraping tool is a software program that’s designed specifically to extract (or ‘scrape’) relevant information from two choosen websites:
-*
-*
+My web scraping tool is a software program that’s designed specifically to extract (or ‘scrape’) relevant information from two chosen websites:
+* https://www.euro.com.pl
+* https://www.komputronik.pl
 
-A scraping tool typically makes HTTP requests to a target website and extracts the data from a page. Usually, it parses content that is publicly accessible and visible to users and rendered by the server as HTML.
+They are Polish stores offering, among others computer equipment, household appliances and audio / video devices. In my project I decided to focus only on laptops which are sold by the abovementioned companies on their websites.
+
+Tool makes HTTP requests to a target websites and extracts the data from both pages page.
 
 The figure below shows five photos from each category.
 
