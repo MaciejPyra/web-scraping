@@ -35,7 +35,7 @@ They are Polish stores offering, among others computer equipment, household appl
 <a name="intro3"></a>
 ### Technology Stack
 * Python,
-* Python HTTP requests library -> to open URL and get to the website,
+* Python HTTP urllib library -> to open URL and get to the website,
 * Python BeautifulSoup library -> to parse html and scrape data from the website,
 * other popular Python general-purpose programming libraries, like re (regular experession) -> to perform specific subtaks, for example to perform string operations;
 
