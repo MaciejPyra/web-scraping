@@ -1,0 +1,610 @@
+;Name;Price
+0;"HP 15s\-eq0035nw 15,6\"" AMD Ryzen 5 3500U \- 8GB RAM \- 256GB Dysk \- Win10";2340.00
+1;"Lenovo Ideapad L340\-15IRH Gaming 15,6\"" Intel® Core™ i5\-9300HF \- 16GB RAM \- 512GB Dysk \- GTX1050 Grafika \- Win10";3399.00
+2;"ASUS TUF Gaming F15 FX506LI\-HN012T 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";3999.00
+3;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4049.00
+4;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4349.00
+5;"Lenovo IdeaPad Gaming 3 15ARH05 15,6\"" 120Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3999.00
+6;"Lenovo IdeaPad Gaming 3 15ARH05 15,6\"" 120Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4399.00
+7;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";3899.00
+8;"HP OMEN 15\-en0002nw 15,6\"" 144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1660 Ti Grafika \- Win10";5499.00
+9;"Acer Aspire 3 A315\-56 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";2999.00
+10;"Lenovo Legion 5 15ARH05H 15,6\"" 120Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika";3999.00
+11;"ASUS X509JA\-EJ073T 15,6\"" Intel® Core™ i3\-1005G1 \- 8GB RAM \- 512GB Dysk \- Win10";2599.00
+12;"Apple Macbook Air 13 13,3\"" Intel® Core™ i5\-5360U \- 8GB RAM \- 128GB Dysk \- OS Sierra";3899.00
+13;"Acer Nitro 5 15,6\"" Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB SSD Dysk \- GTX1650 Grafika \- Win10";3899.00
+14;"ASUS X509JA\-BQ241T 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";2999.00
+15;"ASUS X543MA\-DM621 15,6\"" Intel® Celeron™ N4000 \- 4GB RAM \- 256GB Dysk";1799.00
+16;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";3799.00
+17;"Apple Macbook Pro M1 13,3\"" Apple M1 \- 8GB RAM \- 256GB Dysk \- macOS (gwiezdna szarość)";6999.00
+18;HP 15\-db1047nw 15,6\'\' AMD Ryzen 3 3200U \- 16GB RAM \- 256GB Dysk;2199.00
+19;"Apple Macbook Pro M1 13,3\"" Apple M1 \- 8GB RAM \- 256GB Dysk \- macOS (srebrny)";6999.00
+20;"HP 15s\-eq0070nw 15,6\"" AMD Ryzen 7 3700U \- 16GB RAM \- 256GB Dysk";2799.00
+21;"Huawei MateBook D 14 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10";2999.00
+22;"Lenovo Legion 5 17IMH05 17,3\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3499.00
+23;"HP Pavilion 15\-ec1004nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 256GB Dysk \- GTX1050 Grafika";3099.00
+24;"ASUS TUF Gaming F15 FX506LI\-HN012 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3899.00
+25;"Acer Nitro 5 AN515\-43\-R292 15,6\"" AMD Ryzen 5 3550H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3799.00
+26;HP 15\-db1048nw 15,6\'\' AMD Ryzen 3 3200U \- 8GB RAM \- 256GB Dysk;2099.00
+27;ASUS ZenBook 14 UM431DA 14\'\' AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10;3699.00
+28;"Acer Aspire 3 A315\-23\-R9KC 15,6\"" AMD Athlon 3050U \- 8GB RAM \- 512GB Dysk";2199.00
+29;HP 15\-db1069nw 15,6\'\' AMD Ryzen 7 3700U \- 16GB RAM \- 512GB Dysk \- Win10;3199.00
+30;"MSI GF65 Thin 10UE\-053PL 15,6\""144Hz Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- RTX3060 Grafika \- Win10";6499.00
+31;"HP 15s\-eq0028nw 15,6\"" AMD Ryzen 7 3700U \- 16GB RAM \- 512GB Dysk \- Win10";3199.00
+32;"HP 15s\-eq0057nw 15,6\"" AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk";2699.00
+33;"Lenovo Legion 5 15ARH05H 15,6\"" 120Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";4899.00
+34;"MSI GF63 Thin 9SCSR\-1081XPL 15,6\"" Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Max\-Q Grafika";3899.00
+35;"HP 15s\-eq0068nw 15,6\"" AMD Ryzen 7 3700U \- 16GB RAM \- 256GB Dysk \- Win10";2999.00
+36;"Lenovo IdeaPad 5 15ARE05 15,6\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk \- Win10";3199.00
+37;"Apple Macbook Pro M1 13,3\"" Apple M1 \- 8GB RAM \- 512GB Dysk \- macOS (gwiezdna szarość)";7999.00
+38;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i7\-9750HF \- 8GB RAM \- 256GB Dysk \- GTX1660Ti Grafika";3799.00
+39;"Apple Macbook Air M1 13,3\"" Apple M1 \- 8GB RAM \- 256GB Dysk \- macOS (gwiezdna szarość)";5199.00
+40;"Lenovo IdeaPad 5 15ARE05 15,6\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk";2799.00
+41;"Lenovo IdeaPad Gaming 3 15ARH05 15,6\"" AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3699.00
+42;"Lenovo Legion 5 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3499.00
+43;"ASUS TUF Gaming F15 FX506LI\-HN011T 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4499.00
+44;HP 15\-db1049nw 15,6\'\' AMD Ryzen 3 3200U \- 16GB RAM \- 512GB Dysk;2599.00
+45;"Acer Swift 3 SF314\-42\-R275 14\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk \- Win10";2999.00
+46;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika";3999.00
+47;"MSI GF75 Thin 10SDR\-252PL 17,3\"" 144Hz Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";5699.00
+48;HP 15\-db1003nw 15,6\'\' AMD Ryzen 3 3200U \- 4GB RAM \- 256GB Dysk;2299.00
+49;"Lenovo Legion 5 15IMH05 15,6\"" 120Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3599.00
+50;"Acer Swift 3 SF314\-42\-R054 14\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk";2999.00
+51;"Lenovo Legion 5 15ARH05H 15,6\"" 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4449.00
+52;"Dell Inspiron 3793\-3499 17,3\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- MX230 Grafika";3849.00
+53;"ASUS TUF Gaming F15 FX506LI\-HN109 15,6\"" 144Hz Intel® Core™ i7\-10870H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4799.00
+54;"Acer Aspire 3 A315\-56\-582P 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk";3399.00
+55;HP 15\-db1001nw 15,6\'\' AMD Ryzen 3 3200U \- 8GB RAM \- 256GB Dysk \- Win10;2799.00
+56;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4849.00
+57;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3549.00
+58;"ASUS TUF Gaming F15 FX506LI\-HN039 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3999.00
+59;"HP 15s\-eq1041nw 15,6\"" AMD Ryzen 5 4500U \- 8GB RAM \- 256GB Dysk";2399.00
+60;"Acer Predator Helios 700 17,3\"" 144Hz Intel® Core™ i9\-10980HK \- 64GB RAM \- 2TB SSD Dysk \- RTX2080S Grafika \- Win10";18999.00
+61;"ASUS VivoBook S14 M433IA\-EB082 14\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk";3199.00
+62;"ASUS VivoBook S14 M433IA\-EB094 14\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk";3199.00
+63;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i7\-9750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4199.00
+64;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika";4449.00
+65;"Lenovo Yoga Slim 7 14ARE05 14\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10";3999.00
+66;"Lenovo Legion 5 17IMH05H 17,3\"" 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4549.00
+67;"Microsoft Surface Go 2 10,5\"" Intel® Pentium™ Gold 4425Y \- 4GB RAM \- 64GB Dysk \- Win10 S + klawiatura";2599.00
+68;"Apple Macbook Air M1 13,3\"" Apple M1 \- 8GB RAM \- 256GB Dysk \- macOS (złoty)";5199.00
+69;"Lenovo ThinkBook 14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10";3099.00
+70;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4299.00
+71;MSI GP66 Leopard 10UE\-202PL 15,6\'\' 144Hz Intel® Core™ i7\-10870H \- 16GB RAM \- 1TB SSD Dysk \- RTX3060 Grafika \- Win10;7999.00
+72;HP 15\-db1045nw 15,6\'\' AMD Ryzen 3 3200U \- 4GB RAM \- 512GB Dysk;2599.00
+73;"Acer Nitro 5 AN515\-55\-7950 15,6\""144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";6299.00
+74;"Dell Inspiron 3793\-3482 17,3\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- MX230 Grafika \- Win10";4199.00
+75;"HP Pavilion 15\-ec1060nw 15,6\"" AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4199.00
+76;"Acer Aspire 5 A515\-56\-55YP 15,6\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512 Dysk";3099.00
+77;"Lenovo Legion 7 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512 Dysk \- RTX2070MQ Grafika";6099.00
+78;"Lenovo IdeaPad 5 15IIL05 15,6\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";4099.00
+79;Dell Inspiron 5406\-2805 14\'\' Intel® Core™ i3\-1115G4 \- 4GB RAM \- 256GB Dysk \- Win10S;3199.00
+80;"Lenovo ThinkBook 15 G2 ITL 15,6\"" Intel® Core™ i5\-1135G7 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";4499.00
+81;"Lenovo Legion 5 15ARH05H 15,6\"" 120Hz AMD Ryzen 7 4800H \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika";4299.00
+82;"Apple Macbook Pro M1 13,3\"" Apple M1 \- 8GB RAM \- 512GB Dysk \- macOS (srebrny)";7999.00
+83;"Lenovo IdeaPad Gaming 3 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3699.00
+84;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 1TB SSD Dysk \- GTX1660Ti Grafika \- Win10";4749.00
+85;"MSI Stealth 15M A11SDK\-004PL 15,6\"" 144Hz Intel® Core™ i7\-1185G7 \- 16GB RAM \- 512GB Dysk \- GTX1660TiMQ Grafika \- Win10";6999.00
+86;"MSI GF63 Thin 10SCSR\-448PL 15,6\"" Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Max\-Q Grafika \- Win10";4799.00
+87;"MSI Bravo 15 A4DDR\-241PL 15,6\"" 144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- RX5500M Grafika \- Win10";4699.00
+88;"Lenovo ThinkBook 15 IIL 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3899.00
+89;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4549.00
+90;ASUS ZenBook 14 UX425EA\-BM027R 14\'\' Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk \- Win10 Pro;4499.00
+91;"HP Pavilion Gaming 15\-dk1033nw 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1660TiMQ Grafika";4249.00
+92;"Huawei MateBook X Pro 2020 13,9\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- MX250 Grafika \- Win10 Pro";5999.00
+93;HP Omen 17\-cb1015nw 17,3\'\' 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- RTX2070S Grafika;7499.00
+94;"HP 15s\-eq0069nw 15,6\"" AMD Ryzen 7 3700U \- 8GB RAM \- 512GB Dysk \- Win10";3199.00
+95;"ASUS ZenBook S UX393EA\-HK022T 13,9\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";6999.00
+96;"Lenovo IdeaPad Gaming 3 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4099.00
+97;"Acer Aspire 7 A715\-75G\-52MV 15,6\"" Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3699.00
+98;ASUS VivoBook Flip 14 TM420IA\-EC117T 14\'\' AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10S;3299.00
+99;"Lenovo Legion 5 17IMH05 17,3\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4649.00
+100;"MSI GE66 Raider 10SGS\-272PL 15,6\"" 240Hz Intel® Core™ i7\-10875H \- 16GB RAM \- 1TB SSD Dysk \- RTX2080SMQ Grafika \- Win10";10999.00
+101;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";3699.00
+102;"Lenovo IdeaPad Flex 5 14ARE05 14\"" AMD Ryzen 7 4700U \- 16GB RAM \- 512GB Dysk \- Win10";4199.00
+103;"ASUS VivoBook S14 M433IA\-EB082T 14\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10";3699.00
+104;HP Envy x360 15\-ee0025nn 15,6\'\' AMD Ryzen 7 4700U \- 16GB RAM \- 512GB Dysk \- Win10;4799.00
+105;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4449.00
+106;"Apple Macbook Air M1 13,3\"" Apple M1 \- 8GB RAM \- 512GB Dysk \- macOS (złoty)";6799.00
+107;"ASUS TUF Dash F15 FX516PR\-AZ019T 15,6\"" 240Hz Intel® Core™ i7\-11370H \- 16GB RAM \- 1TB SSD Dysk \- RTX3070 Grafika \- Win10";8499.00
+108;"Lenovo Legion 5 15IMH05 15,6\"" 120Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika";3499.00
+109;"ASUS ROG Strix G17 G713QR\-HG025T 17,3\"" 300Hz AMD Ryzen 7 5800H \- 16GB RAM \- 512GB Dysk \- RTX3070 Grafika \- Win10";9799.00
+110;"MSI GF75 Thin 10SDR\-481PL 17,3\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";5299.00
+111;"ASUS TUF Gaming F15 FX506LI\-HN039T 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4399.00
+112;"ASUS ROG Strix SCAR 17 G732LXS\-HG050 17,3\"" 300Hz Intel® Core™ i7\-10875H \- 32GB RAM \- 512GB Dysk \- RTX2080S Grafika";9499.00
+113;"Acer Nitro 5 AN515\-44\-R0RF 15,6\"" 144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4199.00
+114;"Huawei MateBook X 2020 13\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- Win10";4999.00
+115;ASUS ZenBook 14 UM425IA\-HM067T 14\'\' AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10;4299.00
+116;"MSI GS66 Stealth 10SGS\-024PL 15,6\""300Hz Intel® Core™ i9\-10980HK \- 32GB RAM \- 2TB SSD Dysk \- RTX2080SMQ Grafika \- Win10 Pro";16999.00
+117;"MSI GF63 Thin 10SCSR\-854XPL 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Max\-Q Grafika";4999.00
+118;"HP Pavilion 16\-a0030nw 16,1\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3999.00
+119;"MSI Modern 14 B10MW\-037PL 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- Win10";4499.00
+120;"Acer ConceptD 9 CN917\-71\-97CT 17,3\""  Intel® Core™ i9\-9980HK \- 32GB RAM \- 2TB SSD Dysk \- RTX5000 Grafika \- W10 Pro";29999.00
+121;"ASUS ZenBook Flip 13 UX363JA\-EM005T 13,3\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";4199.00
+122;"Lenovo IdeaPad Flex 5 14\"" AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10";3499.00
+123;"ASUS ROG Strix SCAR 15 G533QR\-HQ005 15,6\"" 165Hz AMD Ryzen 7 5800H \- 16GB RAM \- 1TB SSD Dysk \- RTX3070 Grafika";9999.00
+124;"HP OMEN 15\-en0024nw 15,6\"" 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika";6199.00
+125;"Lenovo Legion 5 15ARH05H 15,6\"" 120Hz AMD Ryzen 7 4800H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";3999.00
+126;"HP OMEN 15\-en0029nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 256GB Dysk \- GTX1650Ti Grafika";4299.00
+127;"HP Envy x360 15\-ed0010nw 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";4399.00
+128;"HP OMEN 15\-en0026nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4799.00
+129;"MSI GP75 Leopard 10SFSK\-605PL 17,3\""144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070S Grafika \- Win10";8599.00
+130;"ASUS ROG Strix G17 G712LV\-EV045 17,3\"" 144Hz Intel® Core™ i7\-10875H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika";6999.00
+131;"Microsoft Surface Laptop Go 12,4\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10 (platynowy)";3699.00
+132;"Lenovo IdeaPad Flex 5 15IIL05 15,6\"" Intel® Core™ i3\-1005G1 \- 8GB RAM \- 256GB Dysk \- Win10S";3199.00
+133;"Acer Nitro 5 15,6\""120Hz Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";4899.00
+134;"ASUS ROG Zephyrus G14 GA401IV\-HE007T 14\"" 120Hz AMD Ryzen 7 4800HS \- 16GB RAM \- 1TB SSD Dysk \- RTX2060 Grafika \- Win10";7499.00
+135;"Lenovo V14\-ADA 14\"" AMD Ryzen 3 3250U 8GB RAM \- 256GB Dysk \- Win10";2799.00
+136;"ASUS VivoBook S14 S433EA\-EB130 14\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 512GB Dysk";4399.00
+137;"ASUS TUF Dash F15 FX516PR\-AZ024 15,6\"" 240Hz Intel® Core™ i7\-11370H \- 16GB RAM \- 1TB SSD Dysk \- RTX3070 Grafika\t";8099.00
+138;"MSI Prestige 14 Evo A11M\-018PL 14\"" Intel® Core™ i5\-1135G7 \- 16GB RAM \- 512GB Dysk \- Win10";4299.00
+139;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i5 \- 16GB RAM \- 512GB Dysk \- macOS (srebrny)";8499.00
+140;"Lenovo Yoga S940\-14IIL 14\"" Intel® Core™ i5\-1035G4 \- 8GB RAM \- 512GB Dysk \- Win10";6999.00
+141;"ASUS VivoBook S14 M433IA\-EB056 14\"" AMD Ryzen 7 4700U \- 16GB RAM \- 512GB Dysk";3499.00
+142;"Lenovo Legion 5 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3799.00
+143;Dell Inspiron 5401\-9046 14\'\' Intel® Core™ i7\-1065G7 \- 8GB RAM \- 1TB SSD Dysk \- MX330 Grafika \- Win10;4999.00
+144;"Lenovo ThinkBook 14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk";3349.00
+145;"MSI Modern 14 B10MW\-246PL 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";4199.00
+146;"MSI Prestige 14 A10SC\-215PL 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- GTX1650 Max\-Q Grafika \- Win10";6199.00
+147;"HP OMEN 15\-en0009nw 15,6\"" 144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";5599.00
+148;HP Omen 15\-ek0041nw 15,6\'\' 300Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika;5799.00
+149;"Lenovo IdeaPad Gaming 3 15ARH05 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";3799.00
+150;"HP Pavilion Gaming 15\-dk1046nw 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1660TiMQ Grafika \- Win10";4699.00
+151;"HP OMEN 15\-en0027nw 15,6\"" AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4499.00
+152;"Acer Nitro 5 AN515\-55\-53M3 15,6\""144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB SSD Dysk \- RTX2060 Grafika \- Win10";5499.00
+153;"HP OMEN 15\-en0001nw 15,6\"" 144Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";5499.00
+154;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i5 \- 16GB RAM \- 1TB SSD Dysk \- macOS (srebrny)";8999.00
+155;"ASUS TUF Dash F15FX516PR\-AZ024T 15,6\"" 240Hz Intel® Core™ i7\-11370H \- 16GB RAM \- 1TB SSD Dysk \- RTX3070 Grafika \- Win10";8499.00
+156;"ASUS ROG Zephyrus S17 GX701LXS\-HG022T 17,3\"" 300Hz Intel® Core™ i7\-10750H \- 32GB RAM \-1TB SSD Dysk \- RTX2080S Grafika \- W10";11999.00
+157;"Dell Latitude 3510 15,6\"" Intel® Core™ i3\-10110U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3549.00
+158;Dell Inspiron 5406\-2959 14\'\' Intel® Core™ i5\-1135G7 \- 8GB RAM \- 256GB Dysk \- Win10;3999.00
+159;HP Omen 17\-cb1014nw 17,3\'\' 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512GB Dysk \- RTX2070S Grafika;7999.00
+160;"Lenovo ThinkPad E14 Gen 2 14\"" AMD Ryzen 5 4500U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3999.00
+161;"Lenovo IdeaPad 3 14ADA05 14\"" AMD Ryzen 7 3700U \- 8GB RAM \- 512GB Dysk";2999.00
+162;"MSI Prestige 14 Evo A11M\-013PL 14\"" Intel® Core™ i7\-1185G7 \- 16GB RAM \- 512GB Dysk \- Win10";5499.00
+163;"ASUS VivoBook S14 S433EA\-EB127 14\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 512GB Dysk";4299.00
+164;"Dell Latitude 3510 15,6\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4049.00
+165;"Lenovo Yoga C740\-14IML 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- Win10";4299.00
+166;"HP Pavilion Gaming 15\-dk1032nw 15,6\"" Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1660TiMQ Grafika";4399.00
+167;"Lenovo Legion 5 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4199.00
+168;"Lenovo Legion 5 17IMH05H 17,3\"" 144Hz Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4349.00
+169;HP Omen 15\-ek0007nw 15,6\'\' 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512GB Dysk \- RTX2060 Grafika;6699.00
+170;"Apple Macbook Air 13 2020 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 512GB Dysk \- macOS (srebrny)";6399.00
+171;"Lenovo Legion 7 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2080SMQ Grafika";9399.00
+172;"ASUS ROG Strix SCAR III G531GW\-AZ102T 15,6\"" Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070 Grafika \- Win10";7299.00
+173;"ASUS TUF Dash F15 FX516PR\-AZ019 15,6\"" 240Hz Intel® Core™ i7\-11370H \- 16GB RAM \- 1TB SSD Dysk \- RTX3070 Grafika";8099.00
+174;"MSI Modern 14 A10M\-1062PL 14\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 512GB Dysk \- Win10";4499.00
+175;"ASUS ProArt StudioBook Pro X W730G5T 17\"" Intel® Core™ i7\-9750H \- 32GB RAM \- 2TB SSD Dysk \- RTX5000 Grafika \- Win10 Pro";19999.00
+176;"Lenovo Yoga Slim 7 14IIL05 14\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- Win10";4299.00
+177;"Apple Macbook Air M1 13,3\"" Apple M1 \- 8GB RAM \- 512GB Dysk \- macOS (gwiezdna szarość)";6799.00
+178;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 512GB Dysk \- macOS (srebrny)";7299.00
+179;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i7 \- 32GB RAM \- 1TB SSD Dysk \- macOS (gwiezdna szarość)";13499.00
+180;"Lenovo IdeaPad Flex 5 14IIL05 14\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 512GB Dysk \- Win10";4099.00
+181;"Lenovo V14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10";3299.00
+182;"HP Envy 13\-aq1001nw 13,3\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";4599.00
+183;"ASUS X571LI\-BN026 15,6\"" Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4899.00
+184;"Huawei MateBook X Pro 2020 53011AGG 13,9\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- MX250 Grafika \- Win10 Pro";8499.00
+185;"Lenovo Legion 7 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512 Dysk \- RTX2070SMQ Grafika \- Win10";7899.00
+186;"MSI GF65 Thin 10SDR\-1052PL 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4999.00
+187;"Lenovo IdeaPad 3 14IIL05 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk";2799.00
+188;"HP Pavilion Gaming 15\-ec1025nw 15,6\"" AMD Ryzen 7 4800H \- 8GB RAM \- 512GB Dysk \- GTX1660TiMQ Grafika";4699.00
+189;"Lenovo Yoga C740\-15IML 15,6\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- Win10";4899.00
+190;"Apple Macbook Air M1 13,3\"" Apple M1 \- 8GB RAM \- 512GB Dysk \- macOS (srebrny)";6799.00
+191;"Lenovo ThinkBook 15 IIL 15,6\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";4299.00
+192;"Huawei MateBook X Pro 2020 13,9\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- MX250 Grafika \- Win10 Pro";7499.00
+193;"Lenovo Legion 7 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512 Dysk \- RTX2070SMQ Grafika";7499.00
+194;Dell Inspiron 5406\-2829 14\'\' Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk \- Win10;4199.00
+195;"Lenovo Yoga C940\-14IIL 14\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- Win10";6899.00
+196;"Lenovo ThinkBook 15 IIL 20SM00CXPB 15,6\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";3999.00
+197;"Lenovo Legion 5 15IMH05 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3849.00
+198;"Lenovo Yoga C740\-15IML 15,6\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- Win10";5199.00
+199;"Dell Latitude 3410 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4099.00
+200;"Dell Inspiron 7306\-2652 13,3\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 32GB + 512GB Dysk \- Win10";4999.00
+201;"Dell Inspiron 7306\-2669 13,3\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 512GB Dysk \- Win10";5699.00
+202;Dell Inspiron G5 15 5505\-6384 15,6\'\' 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- RX5600M Grafika \- Win10;6499.00
+203;"Acer Predator Triton 500 PT515\-52 15,6\"" 144Hz Intel® Core™ i7\-10875H \- 16GB RAM \- 512GB Dysk \- RTX2070S M\-Q Grafika";7999.00
+204;HP Omen 17\-cb1013nw 17,3\'\' 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- RTX2070S Grafika \- Win10;7999.00
+205;Dell Inspiron 5405\-6018 14\'\' AMD Ryzen 7 4700U \- 8GB RAM \- 512GB Dysk \- Win10;4299.00
+206;"HP OMEN 15\-en0011nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 256GB Dysk \- GTX1660Ti Grafika";4699.00
+207;"Lenovo Yoga C740\-14IML 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- Win10";4799.00
+208;"Microsoft Surface Laptop 3 13,5\"" Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB Dysk \- Win10 (czarny)";5199.00
+209;MSI GP65 Leopard 10SFSK\-666PL 15,6\'\' 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070S Grafika \- Win10;8399.00
+210;"Lenovo ThinkBook 15 G2 ARE 15,6\"" AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3499.00
+211;"Lenovo IdeaPad Gaming 3 15IMH05 15,6\"" 120Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4099.00
+212;"HP Envy 15\-ep0020nw 15,6\"" Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";5999.00
+213;"HP Pavilion 15\-ec1021nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3799.00
+214;"MSI GE75 Raider 10SFS\-031PL 17,3\"" Intel® Core™ i9\-10980HK \- 16GB RAM \- 1TB + 512GB Dysk \- RTX2070 Grafika \- W10";10399.00
+215;"Apple Macbook Pro 16 z Touch Bar 2019 16\"" \- Intel® Core™ i7 \- 16GB RAM \- 512GB Dysk \- R5300M Grafika \- macOS (szary)";11699.00
+216;LG Gram 17\'\' 2020 17Z90N\-V.AA75Y Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB SSD Dysk \- Win10;7299.00
+217;"MSI GF63 Thin 10SCSR\-855XPL 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Max\-Q Grafika";4599.00
+218;ASUS ZenBook 14 UM425IA\-AM004R 14\'\' AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk \- Win10 Pro;4199.00
+219;LG Gram 14\'\' 2020 14Z90N\-V.AR53Y Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB SSD Dysk \- Win10;5199.00
+220;"ASUS ROG Zephyrus M15 GU502LW\-HC085 15,6\"" Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika";7299.00
+221;"Acer Nitro 5 AN517\-52\-55Y8 17,3\"" 120Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";5599.00
+222;"ASUS ROG Zephyrus M GU502GU\-AZ106 15,6\"" 240Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";6299.00
+223;"Dell XPS 13 7390\-8421 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";6849.00
+224;"Huawei MateBook 13 13\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 512GB Dysk \- MX250 Grafika \- Win10";3999.00
+225;"Acer Predator Helios 700 17,3\""144Hz Intel® Core™ i7\-10875H \- 32GB RAM \- 1TB SSD Dysk \- RTX2070S Grafika \- Win10";12999.00
+226;"Huawei MateBook 13 2020 13\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- MX250 Grafika \- Win10";5999.00
+227;"HP OMEN 15\-en0014nw 15,6\"" 144Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";5199.00
+228;"ASUS ROG Zephyrus M15 GU502LW\-HC085T 15,6\"" Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika \- Win10";7499.00
+229;"Dell Inspiron 7306\-5981 13,3\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 512GB Dysk \- Win10 + Active Pen";6799.00
+230;"Dell Inspiron 7306\-2690 13,3\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk \- Win10";4699.00
+231;"Lenovo IdeaPad 5 15IIL05 15,6\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 1TB SSD Dysk \- MX350 Grafika \- Win10";4149.00
+232;"Dell Inspiron 7306\-5998 13,3\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 32GB + 512GB Dysk \- Win10 + Active Pen";6799.00
+233;"HIRO 7166 15,6\""144Hz Intel® Core™ i7\-9750H \- 8GB RAM \- 1TB+250GB \- GTX1660Ti Grafika \- Win10";5849.00
+234;"Lenovo Yoga S730\-13IML 13,3\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 256GB Dysk \- Win10";3999.00
+235;"Lenovo ThinkBook 15p IMH 15,6\"" Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650TiMQ \- Win10 Pro";6799.00
+236;"Lenovo IdeaPad Gaming 3 15IMH05 15,6\"" AMD Ryzen 7 4800H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3799.00
+237;"Lenovo ThinkBook 14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 512GB Dysk \- Win10";4399.00
+238;"Lenovo Yoga C740\-14IML 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- Win10";5099.00
+239;"ASUS ROG Zephyrus S GX531GX\-ES011T 15,6\"" Intel® Core™ i7\-8750H \- 24GB RAM \- 512GB Dysk \- RTX2080 Grafika \- Win10";8299.00
+240;"Lenovo ThinkBook 14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";4199.00
+241;"Lenovo Yoga Slim 7 14ARE05 14\"" AMD Ryzen 5 4500U \- 16GB RAM \- 1TB SSD Dysk \- Win10";4299.00
+242;ASUS ZenBook 14 UM425IA\-HM067R 14\'\' AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10 Pro;4499.00
+243;"Lenovo Legion 5 17IMH05 17,3\"" Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3999.00
+244;"ASUS ROG Zephyrus G14 GA401IV\-HA040T 14\"" AMD Ryzen 9 4900HS \- 16GB RAM \- 1TB SSD Dysk \- RTX2060 MQ Grafika \- Win10";7999.00
+245;"Lenovo Yoga S730\-13IML 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10";3799.00
+246;"ASUS TUF Gaming F15 FX506LI\-HN011 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";3999.00
+247;HP Omen 17\-cb1011nw 17,3\'\' 300Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika;10999.00
+248;"ASUS ROG Zephyrus S GX701GWR 17,3\"" Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070 Grafika \- Win10";8299.00
+249;"Lenovo Yoga C740\-15IML 15,6\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 1TB SSD Dysk \- Win10";4699.00
+250;"Lenovo Legion Y740\-15IRHg 15,6\"" Intel® Core™ i7\-9750H \- 8GB RAM \- 256GB Dysk \- RTX2060 Grafika \- Win10";6899.00
+251;HP Omen 15\-ek0004nw 15,6\'\' 300Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika \- Win10;9299.00
+252;"ASUS ProArt StudioBook Pro W500G5T 15,6\"" Intel® Core™ i7\-9750H \- 32GB RAM \- 2TB SSD Dysk \- RTX5000 Grafika \- Win10 Pro";19999.00
+253;"Lenovo Yoga C740\-14IML 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 1TB SSD Dysk \- Win10";4599.00
+254;"HP Spectre x360 13\-aw0030nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";7199.00
+255;"Lenovo ThinkPad X1 Carbon 8 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- Win10 Pro";11499.00
+256;LG Gram 14\'\' 2020 14Z90N\-V.AR52Y Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB SSD Dysk \- Win10;5189.00
+257;Dell XPS 15 9575 15,6\'\' i5\-8305G \- 8GB RAM \- 256GB SSD Dysk \- Win10;7999.00
+258;"Microsoft Surface Book 3 13,5\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 256GB Dysk \- GTX1650MQ Grafika \- Win10";8899.00
+259;"Acer Aspire 3 A315\-56\-33RC 15,6\"" Intel® Core™ i3\-1005G1 \- 4GB RAM \- 256GB Dysk";2499.00
+260;"ASUS VivoBook S14 S433EA\-EB027 14\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk";3899.00
+261;"MSI Modern 14 B10MW\-037PL 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";3599.00
+262;"HP OMEN 15\-en0008nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";5299.00
+263;"Microsoft Surface Pro X 13\"" SQ1 \- 8GB RAM \- 256GB Dysk \- LTE \- Win10";5849.00
+264;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i7 \- 16GB RAM \- 512GB Dysk \- macOS (gwiezdna szarość)";9999.00
+265;"Lenovo IdeaPad 3 14IIL05 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10";3199.00
+266;"Lenovo ThinkBook 14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3699.00
+267;"HP Envy 17\-cg0007nw 17,3\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10";4699.00
+268;"ASUS ROG Zephyrus S17 GX701LXS\-HG051T 17,3\"" 300Hz Intel® Core™ i7\-10750H \- 16GB RAM \-1TB SSD Dysk \- RTX2080S Grafika \- W10";11999.00
+269;"Lenovo ThinkPad T470 14\"" Intel® Core™ i5\-7200U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6149.00
+270;Dell Inspiron 5406\-2812 14\'\' Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10;4399.00
+271;"Lenovo ThinkPad X1 Carbon 8 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";11399.00
+272;"Lenovo ThinkPad T490 14\"" Intel® Core™ i7\-8565U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6399.00
+273;"MSI Summit E14 A11SCST\-073PL 14\"" Intel® Core™ i7\-1185G7 \- 16GB RAM \- 1TB SSD Dysk \- GTX1650TiMQ Grafika \- Win10 Pro";7999.00
+274;"ASUS ROG Zephyrus S17 GX701LXS\-HG042T 17,3\"" 300Hz Intel® Core™ i7\-10875H \- 32GB RAM \-1TB SSD Dysk \- RTX2080S Grafika \- W10";12299.00
+275;"Lenovo ThinkBook 13s G2 ITL 13,3\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4299.00
+276;"Lenovo Legion 7 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512 Dysk \- RTX2060 Grafika \- Win10";7799.00
+277;HP Omen 15\-ek0010nw 15,6\'\' 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika \- Win10;8499.00
+278;HP Omen 15\-ek0008nw 15,6\'\' 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika \- Win10;7699.00
+279;"MSI Modern 15 A10RAS\-269PL 15,6\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10";4599.00
+280;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i5 \- 16GB RAM \- 1TB SSD Dysk \- macOS (gwiezdna szarość)";10899.00
+281;"HIRO 655 15,6\"" Intel® Core™ i7\-10750 \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";5549.00
+282;"Apple Macbook Pro 13 z Touch Bar 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 256GB Dysk \- macOS";7949.00
+283;"Lenovo ThinkBook 14 G2 ITL 14\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk \- Win10 Pro";4499.00
+284;HP Omen 17\-cb1012nw 17,3\'\' 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512GB Dysk \- RTX2070S Grafika \- Win10;8999.00
+285;"Dell Latitude 3510 15,6\"" Intel® Core™ i5\-10310U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";4449.00
+286;"MSI GE66 Raider 10UG\-200PL 15,6\"" 240Hz Intel® Core™ i7\-10870H \- 16GB RAM \- 2TB SSD Dysk \- RTX3070 Grafika \- Win10";11199.00
+287;HP Pavilion 13\-an1004nw 13,3\'\' Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- Win10;4299.00
+288;HP Envy 13\-ba0013nw 13,3\'\' Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- MX350 Grafika \- Win10;5399.00
+289;"HP OMEN 15\-en0028nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika";4299.00
+290;"Microsoft Surface Pro 2017 12,3\"" Intel® Core™ i7\-7660U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";10599.00
+291;HP Envy 13\-ba0001nw 13,3\'\' Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- Win10;5299.00
+292;"ASUS ROG Zephyrus S15 GX502LXS\-HF049T 15,6\""300Hz Intel® Core™ i7\-10875H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika \- W10";10799.00
+293;LG Gram 15,6\'\' 2020 15Z90N\-V.AR52Y Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB SSD Dysk \- Win10;4690.00
+294;"HIRO 7166 15,6\""144Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB+250GB Dysk \- GTX1660Ti Grafika \- Win10";6099.00
+295;"ASUS ROG Zephyrus S17 GX701LWS\-HG091T 17,3\"" 300Hz Intel® Core™ i7\-10875H \- 16GB RAM \-1TB SSD Dysk \- RTX2070S Grafika \- W10";9999.00
+296;Dell Inspiron 5406\-2850 14\'\' Intel® Core™ i7\-1165G7 \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10;4999.00
+297;HP Omen 17\-cb1010nw 17,3\'\' 300Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika \- Win10;11499.00
+298;"Lenovo ThinkPad E14 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 1TB + 256GB Dysk \- RX640 Grafika \- Win10 Pro";4649.00
+299;"Dell XPS 13 7390\-1688 13,3\"" Intel® Core™ i7\-10710U \- 16GB RAM \- 512GB Dysk \- Win10";8099.00
+300;"Lenovo ThinkPad X1 Carbon 7 14\"" Intel® Core™ i7\-8565U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";13399.00
+301;HP Envy 13\-ba0014nw 13,3\'\' Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- MX350 Grafika \- Win10;5599.00
+302;"Lenovo Yoga C940\-14IIL 14\"" Intel® Core™ i5\-1035G4 \- 8GB RAM \- 512GB Dysk \- Win10";6699.00
+303;"HP Spectre x360 13\-aw0032nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";7999.00
+304;HP Omen 17\-cb1007nw 17,3\'\' 300Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- RTX2080S Grafika \- Win10;10999.00
+305;"HP Spectre x360 15\-eb0011nw 15,6\"" Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- GTX1650TiMQ Grafika \- Win10 Pro";9999.00
+306;"MSI GF65 Thin 10SDR\-639PL 15,6\"" Intel® Core™ i7\-10750H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";6099.00
+307;HP Omen 15\-ek0005nw 15,6\'\' 144Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512GB Dysk \- RTX2070MQ Grafika \- Win10;7699.00
+308;"Lenovo ThinkPad T490 14\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5999.00
+309;"Apple Macbook Pro 13 z Touch Bar 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 512GB Dysk \- macOS";8699.00
+310;Dell Inspiron 5406\-2867 14\'\' Intel® Core™ i7\-1165G7 \- 8GB RAM \- 512GB Dysk \- Win10;4799.00
+311;"Microsoft Surface Laptop 2 13,5\"" Intel® Core™ i5\-8250U \- 8GB RAM \- 256GB Dysk \- Win10 (platynowy)";6099.00
+312;"ASUS ROG Zephyrus S17 GX701GWR\-H6072R 17,3\"" 240Hz Intel® Core™ i7\-9750H \- 32GB RAM \-1TB SSD Dysk \- RTX2070 Grafika \- W10P";8799.00
+313;"Lenovo ThinkPad E14 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 1TB Dysk \- Win10 Pro";4499.00
+314;"Lenovo ThinkPad T14 Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";6249.00
+315;HP Envy 13\-ba0010nw 13,3\'\' Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- MX350 Grafika \- Win10;5199.00
+316;"Microsoft Surface Book 3 13,5\"" Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB Dysk \- Win10";7199.00
+317;"MSI Creator 15 A10SFS\-027PL 15,6\"" Intel® Core™ i7\-10875H \- 32GB RAM \- 1TB SSD Dysk \- RTX2070SMQ Grafika \- Win10 Pro";13499.00
+318;"HP OMEN 15\-en0010nw 15,6\"" 144Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";5399.00
+319;"Acer Predator Triton 500 PT515\-52 15,6\""144Hz Intel® Core™ i7\-10875H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070SMQ Grafika  \-Win10";9999.00
+320;"Dell XPS 13 9310\-3086 13,4\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 512GB Dysk \- Win10";9999.00
+321;"Microsoft Surface Pro X 13\"" SQ1 \- 16GB RAM \- 256GB Dysk \- LTE \- Win10";7599.00
+322;"ASUS ROG Zephyrus S GX701GVR\-EV037 17,3\"" 144Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2060 Grafika";8899.00
+323;HP Omen 17\-cb1008nw 17,3\'\' 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- RTX2080S Grafika \- Win10;10599.00
+324;"MSI Modern 14 A10RAS\-1060PL 14\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10";5099.00
+325;"Lenovo ThinkPad T14s Gen1 20T0001PPB 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";7799.00
+326;"HP Envy 15\-ep0000nw 15,6\"" Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti MQ Grafika \- Win10";6999.00
+327;"ASUS ROG G703GXR 17,3\"" Intel® Core™ i7\-9750H \- 32GB RAM \- 1TB + 512GB Dysk \- RTX2080 Grafika \- Win10";10799.00
+328;"HP Spectre x360 13\-aw0041nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";7799.00
+329;"Acer Predator Triton 500 PT515\-52\-796K 15,6\"" 300Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika";11799.00
+330;"MSI Creator 15 A10SGS\-026PL 15,6\"" Intel® Core™ i7\-10875H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080SMQ Grafika \- Win10 Pro";15499.00
+331;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i5 \- 32GB RAM \- 512GB Dysk \- macOS (gwiezdna szarość)";10469.00
+332;"MSI Creator 15 A10SF\-016PL 15,6\"" Intel® Core™ i7\-10875H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika \- Win10 Pro";12499.00
+333;"Microsoft Surface Laptop 13,5\"" Intel® Core™ i7\-7660U \- 16GB RAM \- 512GB Dysk \- Win10 S";10599.00
+334;"HP Spectre x360 13\-aw0031nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";6999.00
+335;"Lenovo ThinkPad T14s Gen1 20T0001QPB 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";7599.00
+336;"Lenovo ThinkBook 14 G2 ARE 14\"" AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3699.00
+337;"Dell XPS 13 9310\-3079 13,4\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 256GB Dysk \- Win10";8999.00
+338;"ASUS ROG Zephyrus S GX701GXR 17,3\"" Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2080 Max\-Q Grafika \- Win10";10499.00
+339;"Dell XPS 13 9300\-8346 13,4\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";11899.00
+340;"ASUS ROG Zephyrus S17 GX701GVR\-EV037T 17,3\"" 144Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2060 Grafika \- W10";9499.00
+341;"HP EliteBook 840 G7 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";6449.00
+342;HP Omen 15\-ek0030nw 15,6\'\' 300Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070MQ Grafika \- Win10;7799.00
+343;"HP Spectre x360 13\-aw0014nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";7799.00
+344;"ASUS ROG Zephyrus S15 GX502LXS\-HF047T 15,6\""300Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika \- W10";10799.00
+345;"HP Envy 13\-aq1003nw 13,3\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 1TB SSD Dysk \- Win10";5499.00
+346;"Lenovo Yoga C930\-13IKB 13,9\"" Intel® Core™ i7\-8550U \- 8GB RAM \- 512GB Dysk \- Win10 ";6699.00
+347;"Dell XPS 13 9300\-8308 13,4\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";10499.00
+348;"MSI Creator 15 A10UET\-201PL 15,6\"" Intel® Core™ i7\-10875H \- 16GB RAM \- 1TB SSD Dysk \- RTX3060 Grafika \- Win10 Pro";11199.00
+349;"ASUS ROG Zephyrus S17 GX701GXR\-HG115R 17,3\""300Hz Intel® Core™ i7\-9750H \- 32GB RAM \-1TB SSD Dysk \- RTX2080MQ Grafika \- W10P";11499.00
+350;"Acer ConceptD 7 Pro CN715\-71P\-72SL 15,6\"" Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX3000 Grafika \- Win10 Pro";12199.00
+351;"MSI Creator 15 A10UGT\-068PL 15,6\"" Intel® Core™ i7\-10875H \- 32GB RAM \- 2TB SSD Dysk \- RTX3070 Grafika \- Win10 Pro";13499.00
+352;"Lenovo ThinkPad T14 Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";6499.00
+353;"ASUS ROG Zephyrus S GX701GXR\-HG121T 17,3\"" 300Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2080 Grafika \- Win10";10499.00
+354;"HP Spectre x360 13\-aw0040nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";7499.00
+355;"Microsoft Surface Book 2 13,5\"" Intel® Core™ i7\-8650U \- 8GB RAM \- 256GB Dysk \- GTX1050 Grafika \-  Win10 Pro";10099.00
+356;"Lenovo ThinkBook 14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3899.00
+357;"Lenovo ThinkBook Plus IML 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6299.00
+358;"Lenovo ThinkPad X395 13,3\"" AMD Ryzen 5 3500U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5149.00
+359;"Lenovo Yoga C930\-13IKB 13,9\"" Intel® Core™ i7\-8550U \- 8GB RAM \- 256GB Dysk \- Win10 ";5649.00
+360;"Lenovo ThinkPad X1 Carbon 8 20U9004TPB 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- Win10 Pro";11499.00
+361;"HP Spectre x360 13\-aw0039nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";6999.00
+362;"ASUS ROG Zephyrus S GX531GXR\-AZ065T 15,6\"" Intel® Core™ i7\-9750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2080 Grafika \- Win10";9999.00
+363;"ASUS ROG Zephyrus S17 GX701GVR\-EV014T 17,3\"" 144Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";10399.00
+364;"Lenovo IdeaPad S530\-13IWL 13,3\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 256GB Dysk \- Win10";3799.00
+365;"Dell XPS 13 7390\-7046 13,3\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- Win10";8999.00
+366;"ASUS ROG Zephyrus S15 GX502LXS\-HF046T 15,6\""300Hz Intel® Core™ i7\-10875H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika \- W10";13999.00
+367;"Acer ConceptD 7 Ezel CC715\-71\-71CP 15,6\"" Intel® Core™ i7\-10875H \- 16GB RAM \- 512GB Dysk \- RTX2080S Grafika \- Win10 Pro";17499.00
+368;"Dell XPS 13 7390\-1792 13,3\"" Intel® Core™ i7\-10710U \- 16GB RAM \- 1TB SSD Dysk \- Win10";9399.00
+369;"Acer ConceptD 7 Ezel CC715\-71\-75XW 15,6\"" Intel® Core™ i7\-10750H \- 32GB RAM \- 2TB SSD Dysk \- RTX2080S Grafika \- Win10 Pro";18999.00
+370;"HP Spectre x360 13\-aw0043nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";6999.00
+371;"Lenovo Yoga C930\-13IKB Glass 13,9\"" Intel® Core™ i5\-8250U \- 8GB RAM \- 256GB Dysk \- Win10";6099.00
+372;HP Envy 13\-ba0009nw 13,3\'\' Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10;4399.00
+373;"HP Spectre x360 13\-aw0046nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";7499.00
+374;"Microsoft Surface Pro 2017 12,3\"" Intel® Core™ i7\-7660U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";7599.00
+375;"Lenovo ThinkPad X1 Carbon 7 14\"" Intel® Core™ i5\-8265U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";10399.00
+376;"Dell XPS 13 2in1 7390\-4118 13,4\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";11099.00
+377;"Acer ConceptD 7 Ezel CC715\-71\-71X1 15,6\"" Intel® Core™ i7\-10750H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika \- Win10 Pro";17999.00
+378;"Lenovo Yoga C930\-13IKB 13,9\"" Intel® Core™ i5\-8250U \- 8GB RAM \- 512GB Dysk \- Win10 ";5799.00
+379;"HP Spectre x360 13\-aw0017nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";7449.00
+380;"Lenovo Yoga C930\-13IKB 13,9\"" Intel® Core™ i5\-8250U \- 8GB RAM \- 256GB Dysk \- Win10";5699.00
+381;"HP Spectre x360 13\-aw0018nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";7449.00
+382;"Lenovo ThinkPad X1 Carbon 7 20QD00KUPB 14\"" Intel® Core™ i7\-8565U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";10599.00
+383;"HIRO 770 15,6\""  Intel® Core™ i7\-8750H \- 16GB RAM \- 1TB+256GB Dysk \- RTX2070 Grafika \- Win10 ";8499.00
+384;"HP Spectre x360 13\-aw0044nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10\t";6999.00
+385;"HP Spectre x360 13\-aw0045nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";7499.00
+386;"Dell XPS 137390\-3048 13,3\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 1TB SSD Dysk \- Win10";8899.00
+387;"Acer ConceptD 7 Ezel CC715\-71\-79GG 15,6\"" Intel® Core™ i7\-10875H \- 32GB RAM \- 1TB SSD Dysk \- RTX2080S Grafika \- Win10 Pro";18499.00
+388;"HIRO 770 15,6\"" Intel® Core™ i7\-8750H \- 16GB RAM \- 1TB+250GB Dysk \- RTX2070 Grafika \- Win10";10299.00
+389;"HP Spectre x360 13\-aw0008nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";7449.00
+390;"Dell XPS 13 2in1 7390\-4101 13,4\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";9799.00
+391;HP Omen 15\-dh1000nw 15,6\'\' 300Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- RTX2080S M\-Q Grafika \- Win10;10699.00
+392;"Dell XPS 13 9300\-8339 13,4\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10";10799.00
+393;"Dell XPS 13 7390\-1808 13,3\"" Intel® Core™ i7\-10710U \- 16GB RAM \- 512GB Dysk \- Win10";9099.00
+394;HP Omen 15\-dh1001nw 15,6\'\' 300Hz Intel® Core™ i7\-10750H \- 32GB RAM \- 512GB Dysk \- RTX2080S M\-Q Grafika \- Win10;11199.00
+395;"Apple Macbook Air M1 13,3\"" Apple M1 \- 8GB RAM \- 256GB Dysk \- macOS (srebrny)";5199.00
+396;"ASUS X509JA\-BQ241 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk";3099.00
+397;"Lenovo V14 IIL 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";2919.00
+398;"Lenovo ThinkPad X240 12,5\"" Intel® Core™ i5\-4300U \- 8GB RAM \- 180GB Dysk \- Win7\/Win8 Pro";5699.00
+399;"Dell Latitude 5410 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4899.00
+400;"Dell Latitude 5510 15,6\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB SSD Dysk \- Win10 Pro";4849.00
+401;"Dell Inspiron G5 5500\-6827 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";5149.00
+402;ASUS ExpertBook B9450FA\-BM0759R 14\'\' Intel® Core™ i7\-10610U \- 16GB RAM \- 512GB Dysk \- Win10 Pro;6249.00
+403;"Lenovo ThinkPad E14 14\"" Intel® Core™ i3\-10110U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3599.00
+404;"Dell Latitude 3410 14\"" Intel® Core™ i5\-10310U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";4399.00
+405;"Dell Vostro 5301 13,3\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3999.00
+406;"Lenovo ThinkPad E14 Gen 2 14\"" Intel® Core™ i7\-1165G7 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";5449.00
+407;"Dell Latitude 3510 15,6\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4899.00
+408;"Lenovo ThinkBook 15p IMH 15,6\"" Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- GTX1650TiMQ \- Win10 Pro";8849.00
+409;"Dell Vostro 5301 13,3\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512GB Dysk \- Win10 Pro";4249.00
+410;"HP ProBook 640 G5 14\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4949.00
+411;ASUS ExpertBook B9450FA\-BM0757R 14\'\' Intel® Core™ i5\-10310U \- 8GB RAM \- 512GB Dysk \- Win10 Pro;5049.00
+412;"Lenovo ThinkBook 15p IMH 15,6\"" Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- GTX1650TiMQ \- Win10 Pro";7199.00
+413;"Lenovo ThinkBook 14s Yoga ITL 14\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4949.00
+414;"HP EliteBook 840 G7 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6449.00
+415;"HP EliteBook 840 G7 14\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";7199.00
+416;"Lenovo ThinkPad L14 Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4549.00
+417;"HP EliteBook 840 G7 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 256GB Dysk \- Win10 Pro";7299.00
+418;"HP EliteBook x360 830 G7 13,3\"" Intel® Core™ i7\-10710U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";8849.00
+419;"Lenovo ThinkPad E14 Gen 2 14\"" Intel® Core™ i5\-1135G7 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";4749.00
+420;"HP ProBook 440 G7 9TV38EA 14\"" Intel® Core™ i3\-10110U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3699.00
+421;"HP EliteBook 830 G7 176Y3EA 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6949.00
+422;"Lenovo ThinkPad E14 Gen 2 14\"" AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3899.00
+423;"Lenovo Legion 5 15ARH05H 15,6\"" 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 1TB SSD Dysk \- GTX1660Ti Grafika \- Win10";5049.00
+424;"HP EliteBook 850 G7 15,6\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6349.00
+425;"HP EliteBook 830 G7 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5949.00
+426;"Lenovo ThinkPad E14 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4249.00
+427;"Lenovo ThinkPad L14 Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";5249.00
+428;"Lenovo ThinkBook 14 G2 ARE 14\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";4399.00
+429;"HP EliteBook x360 830 G7 13,3\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";8599.00
+430;"Lenovo ThinkPad T14 Gen1 14\"" AMD Ryzen 5 4650U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";6799.00
+431;"HP ProBook x360 435 G7 13,3\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";5199.00
+432;"Lenovo ThinkPad E14 Gen 2 14\"" Intel® Core™ i7\-1165G7 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5099.00
+433;"Lenovo ThinkPad E14 20RA0016PB 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4449.00
+434;"Lenovo ThinkPad X13 Gen 1 13,3\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 256GB Dysk \- Win10 Pro";6699.00
+435;"HP EliteBook 835 G7 13,3\"" AMD Ryzen 7 4750U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";6749.00
+436;"HP EliteBook 755 G5 15,6\"" AMD Ryzen 7 PRO 2700U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6199.00
+437;"HP ZBook 14u G6 14\"" Intel® Core™ i5\-8365U \- 16GB RAM \- 256GB Dysk \- Pro WX3200 Grafika \- Win10 Pro";6699.00
+438;"Lenovo Legion 5 15ARH05H 15,6\"" 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4849.00
+439;"Lenovo ThinkPad T14 Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6249.00
+440;"HP ProBook 440 G7 8VU44EA 14\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- MX130 Grafika \- Win10 Pro";4649.00
+441;"HP ZBook 14u G6 14\"" Intel® Core™ i7\-8665U \- 16GB RAM \- 512GB Dysk \- Pro WX3200 Grafika \- Win10 Pro";7899.00
+442;"HP ProBook 630 G8 13,3\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5049.00
+443;"Lenovo ThinkPad X395 13,3\"" AMD Ryzen 7 Pro 3700U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";6899.00
+444;"HP EliteBook 830 G7 13,3\"" Intel® Core™ i5\-10510U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";8049.00
+445;"HP ProBook 630 G8 13,3\"" Intel® Core™ i3\-1115G4 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4149.00
+446;"HP ProBook 440 G7 9HQ80EA 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";4449.00
+447;"Lenovo ThinkPad L14 Gen1 14\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5149.00
+448;"HP 340S G78VU99EA 14\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- Win10 Pro";4199.00
+449;"HP EliteBook 835 G7 13,3\"" AMD Ryzen 5 4650U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5799.00
+450;"HP EliteBook 835 G7 13,3\"" AMD Ryzen 7 4750U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5849.00
+451;"HP ProBook x360 435 G7 13,3\"" AMD Ryzen 7 4700U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5249.00
+452;"HP EliteBook 830 G7 176X9EA 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6449.00
+453;"Lenovo ThinkPad T14s Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10 Pro";6799.00
+454;"HP EliteBook 835 G7 204M2EA 13,3\"" AMD Ryzen 5 4650U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5799.00
+455;"Lenovo ThinkPad L14 Gen1 14\"" Intel® Core™ i7\-10510U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";6499.00
+456;"Lenovo ThinkPad E15 15,6\"" Intel® Core™ i5\-10210U \- 16GB RAM \- 512GB Dysk \- Win10 Pro";4599.00
+457;HP Spectre x360 14\-ea0059nw 13,5\'\' Intel® Core™ i7\-1165G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10;8449.00
+458;HP Spectre x360 14\-ea0065nw 13,5\'\' Intel® Core™ i7\-1165G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10;7999.00
+459;HP Spectre x360 14\-ea0056nw 13,5\'\' Intel® Core™ i7\-1165G7 \- 16GB RAM \- 2TB SSD Dysk \- Win10;9299.00
+460;"Lenovo ThinkPad X1 Nano Gen 1 13\"" Intel® Core™ i7\-1160G7 \- 16GB RAM \- 1TB SSD Dysk \- Win10 Pro";12499.00
+461;"Lenovo ThinkPad X1 Nano Gen 1 13\"" Intel® Core™ i5\-1130G7 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";10999.00
+462;"Lenovo ThinkPad X1 Nano Gen 1 13\"" Intel® Core™ i7\-1160G7 \- 16GB RAM \- 512GB Dysk \- Win10 Pro";11999.00
+463;"MSI Bravo 15 A4DDR\-242XPL 15,6\"" 144Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- RX5500M Grafika";4299.00
+464;"Lenovo Ideapad L340\-15IRH Gaming 15,6\"" Intel® Core™ i5\-9300HF \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3599.00
+465;HP 15\-db1036nw 15,6\'\' AMD Ryzen 3 3200U \- 8GB RAM \- 512GB Dysk \- Win10;2299.00
+466;"Lenovo Ideapad L340\-15IRH Gaming 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- GTX1050 Grafika \- Win10";3199.00
+467;"Acer Aspire 3 A315\-23\-R9MZ 15,6\"" AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10";2640.00
+468;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2060 Grafika \- Win10";5349.00
+469;"Lenovo Legion 5 15IMH05H 15,6\"" 144Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4449.00
+470;Kiano SlimNote 14,2 Intel® Atom™ x5\-Z8350 \- 2GB RAM \- 32GB Dysk \- Win10;899.00
+471;"Lenovo IdeaPad 5 15ARE05 15,6\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk";2999.00
+472;"Lenovo Ideapad Slim 1\-14AST\-05 14\"" AMD A6\-9220e \- 4GB RAM \- 256GB Dysk \- Win10S";1999.00
+473;"Lenovo IdeaPad 5 15ARE05 15,6\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10";3399.00
+474;"Lenovo Ideapad L340\-15IRH Gaming 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3399.00
+475;"ASUS X541SA\-DM690 15,6\"" Intel® Pentium™ N3700 \- 4GB RAM \- 1TB Dysk";1999.00
+476;"HP Pavilion 15\-ec1016nw 15,6\"" AMD Ryzen 5 4600H \- 8GB RAM \- 256GB Dysk \- GTX1050 Grafika \- Win10";3199.00
+477;"Lenovo IdeaPad Gaming 3 15IMH05 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 256GB Dysk \- GTX1650 Grafika";2899.00
+478;"Acer Aspire 5 A515\-56\-5138 15,6\"" Intel® Core™ i5\-1135G7 \- 8GB RAM \- 512 Dysk \- Win10";3399.00
+479;"Lenovo Ideapad L340\-15IRH Gaming 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 256GB Dysk \- GTX1650 Grafika \- Win10";3199.00
+480;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika";4199.00
+481;Dell Inspiron 5401\-9060 14\'\' Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10;3899.00
+482;"HP 14s\-dq1042nw 14\"" Intel® Core™ i3\-1005G1 \- 4GB RAM \- 256GB Dysk \- Win10";2499.00
+483;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";4399.00
+484;"Huawei MateBook D14 14\"" AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10";2999.00
+485;"Lenovo Legion 5 15IMH05H 15,6\"" 120Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";4199.00
+486;"Acer Aspire 5 A515\-56\-502B 15,6\"" Intel® Core™ i5\-1135G7 \- 16GB RAM \- 512 Dysk \- Win10";3499.00
+487;"HP Envy 13\-aq1004nw 13,3\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";3599.00
+488;"Lenovo Ideapad L340\-15IRH Gaming 15,6\"" Intel® Core™ i5\-9300H \- 16GB RAM \- 512GB Dysk \- GTX1050 Grafika \- Win10";3399.00
+489;"Huawei MateBook D14 14\"" AMD Ryzen 5 3500U \- 8GB RAM \- 256GB Dysk \- Win10";2799.00
+490;"Lenovo IdeaPad Gaming 3 15IMH05 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3499.00
+491;"Acer Aspire 5 A515\-56\-5782 15,6\"" Intel® Core™ i5\-1135G7 \- 16GB RAM \- 512 Dysk";3349.00
+492;"Apple Macbook Air 13 2020 13,3\"" Intel® Core™ i3 \- 8GB RAM \- 256GB Dysk \- macOS (gwiezdna szarość)";4999.00
+493;"Lenovo V14 IIL 14\"" Intel® Core™ i3\-1005G1 \- 8GB RAM \- 256GB Dysk";2169.00
+494;"Lenovo IdeaPad 3 15ADA05 15,6\"" AMD Ryzen 3 3250U \- 8GB RAM \- 256GB Dysk \- Win10S";2599.00
+495;HP Envy x360 13\-ar0014nw 13,3\'\' AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10;3299.00
+496;"Lenovo Legion 5 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3899.00
+497;"Lenovo Legion 5 15ARH05 15,6\"" 120Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3699.00
+498;"Huawei MateBook D15 15,6\"" AMD Ryzen 5 3500U \- 8GB RAM \- 256GB Dysk \- Win10";2799.00
+499;"Lenovo Legion Y540\-17IRH 17,3\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika";4199.00
+500;"Huawei MateBook 13 2020 13\"" AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10";2999.00
+501;"Apple Macbook Pro 16 z Touch Bar 2019 16\""\-Intel® Core™ i9 \- 16GB RAM \- 1TBSSD Dysk \- R5500M Grafika \- macOS (srebrny)";13199.00
+502;"Acer Swift 5 SF514\-54T 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";3899.00
+503;"Acer Aspire 3 A315\-23\-R3KL 15,6\"" AMD Ryzen 3 3250U \- 4GB RAM \- 128GB Dysk \- Win10S";2199.00
+504;"Lenovo IdeaPad Gaming 3 15IMH05 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 256GB Dysk \- GTX1650Ti Grafika";3199.00
+505;"HP 15s\-eq1010nw 15,6\"" AMD Ryzen 5 4500U \- 16GB RAM \- 512GB Dysk \- Win10";3399.00
+506;"ASUS TUF Gaming FX505GT\-BQ018 15,6\"" Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";4199.00
+507;"ASUS TUF Gaming F15 FX506LH\-HN004T 15,6\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";4299.00
+508;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i7\-9750H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";3999.00
+509;"Huawei MateBook 13 2020 13\"" AMD Ryzen 5 3500U \- 8GB RAM \- 256GB Dysk \- Win10";2999.00
+510;"Lenovo Legion Y540\-15IRH\-PG0 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3299.00
+511;"Lenovo ThinkBook 15 IIL 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10 Pro";3999.00
+512;"Lenovo IdeaPad Gaming 3 15IMH05 15,6\"" 120Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3599.00
+513;"HP 14\-dk0042nw 14\"" AMD A6\-9225 \- 4GB RAM \- 128GB Dysk \- Win10S";2099.00
+514;"Lenovo Legion 5 15IMH05H 15,6\"" 120Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika \- Win10";4599.00
+515;"Huawei MateBook 14 2020 14\"" AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- Win10";4299.00
+516;"Lenovo IdeaPad 5 15ARE05 15,6\"" AMD Ryzen 3 4300U \- 8GB RAM \- 512GB Dysk \- Win10";2999.00
+517;"Huawei MateBook D14 14\"" AMD Ryzen 7 3700U \- 8GB RAM \- 512GB Dysk \- Win10";3199.00
+518;"Microsoft Surface Pro 7 12,3\"" Intel® Core™ i5\-1035G4 \- 8GB RAM \- 128GB Dysk \- Win10 (platynowy) + klawiatura";4499.00
+519;"Lenovo IdeaPad 5 14ARE05 14\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk \- Win10";3199.00
+520;"Lenovo Legion Y540\-15IRH\-PG0 15,6\"" Intel® Core™ i5\-9300HF \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";3699.00
+521;"Apple Macbook Air 13 2020 13,3\"" Intel® Core™ i3 \- 8GB RAM \- 256GB Dysk \- macOS (srebrny)";4999.00
+522;"Lenovo IdeaPad 5 15IIL05 15,6\"" Intel® Core™ i3\-1005G1 \- 8GB RAM \- 256GB Dysk";2599.00
+523;"Acer Nitro 5 AN515\-54\-53KY 15,6\"" Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB SSD Dysk \- GTX1650 Grafika";3799.00
+524;"Huawei MateBook 13 2020 13\"" AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10 + MateDock 2";3099.00
+525;"ASUS TUF Gaming FX505DT\-BQ051T 15,6\"" AMD Ryzen 5 3550H \- 8GB RAM \- 512GB Dysk \- GTX 1650 Grafika \- Win10";4199.00
+526;Dell Inspiron 5405\-6025 14\'\' AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10S;3099.00
+527;"Lenovo IdeaPad 3 15IIL05 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";3399.00
+528;"Lenovo Legion Y540\-15IRH 15,6\"" Intel® Core™ i7\-9750HF \- 8GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";4699.00
+529;"Lenovo V14 IIL 14\"" Intel® Core™ i3\-1005G1 \- 8GB RAM \- 256GB Dysk \- Win10";2799.00
+530;"Acer Nitro 5 AN515\-44\-R7WZ 15,6\"" 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";5199.00
+531;"Lenovo IdeaPad S540\-14IML 81NF00D9PB 14\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 512GB Dysk \- Win10";3999.00
+532;Dell Inspiron 5401\-9053 14\'\' Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10;4799.00
+533;HP Envy x360 13\-ar0010nw 13,3\'\' AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk \- Win10;3599.00
+534;Lenovo Ideapad C340\-14API 14\'\' AMD Ryzen 7 3700U \- 8GB RAM \- 1TB SSD Dysk \- Win10;3699.00
+535;"Lenovo IdeaPad 5 15IIL05 15,6\"" Intel® Core™ i5\-1035G1 \- 16GB RAM \- 512GB Dysk \- Win10";3599.00
+536;ASUS M509DA\-EJ034T 15,6\'\' AMD Ryzen 5 3500U \- 8GB RAM \- 256GB Dysk \- Win10;3299.00
+537;"Lenovo V15 ADA 15,6\"" AMD Ryzen 3 3250U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";2899.00
+538;"ASUS ROG Strix G G531GU\-AL065 15,6\""120Hz Intel® Core™ i7\-9750H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika";5399.00
+539;"Microsoft Surface Pro 2017 12,3\"" Intel® Core™ i5\-7300U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";6199.00
+540;"HP 15s\-fq1041nw 15,6\"" Intel® Core™ i3\-1005G1 \- 4GB RAM \- 256GB Dysk";2699.00
+541;"Acer Aspire 3 A315\-56\-54R2 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 1TB SSD Dysk";3199.00
+542;"Acer Aspire 3 A315\-23\-R5RD 15,6\"" AMD Ryzen 5 3500U \- 8GB RAM \- 512GB Dysk";3099.00
+543;"Acer Aspire 7 A715\-75G 15,6\"" Intel® Core™ i5\-9300H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";4099.00
+544;"Acer Nitro 5 AN517\-52\-52WC 17,3\""120Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB SSD Dysk \- GTX1650Ti Grafika \- Win10";4899.00
+545;"Lenovo ThinkPad E15 Gen2 15,6\"" AMD Ryzen 3 4300U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3399.00
+546;"Huawei MateBook 13 2020 13\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";3999.00
+547;"Lenovo IdeaPad S540\-15IWL GTX 15,6\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 256GB Dysk \- GTX1650 Max\-Q Grafika \- Win10";4099.00
+548;Dell Inspiron 5405\-5998 14\'\' AMD Ryzen 5 4500U \- 8GB RAM \- 256GB Dysk \- Win10;3499.00
+549;"Acer Nitro 5 AN515\-44 15,6\"" 144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4799.00
+550;"HP 15s\-fq1134nw 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk";3199.00
+551;"HP Pavilion Gaming 15\-ec0020nw 15,6\"" AMD Ryzen 5 3550H \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika \- Win10";4099.00
+552;"HP 14s\-dq1043nw 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10";3199.00
+553;ASUS TUF Gaming A15 FA506II\-AL038 15,6\'\' 144Hz AMD Ryzen 7 4800H \- 16GB RAM \- 512GB Dysk \- GTX1650Ti Grafika;4999.00
+554;"MSI Modern 14 A10M\-894PL 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";3399.00
+555;"HP Pavilion Gaming 15\-ec0039nw 15,6\"" AMD Ryzen 7 3750H \- 8GB RAM \- 512GB Dysk \- GTX1660Ti Max\-Q Grafika";4099.00
+556;"Apple Macbook Air 13 2020 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 512GB Dysk \- macOS (gwiezdna szarość)";5699.00
+557;"Apple Macbook Air 13 2020 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 512GB Dysk \- macOS (złoty)";5599.00
+558;Dell Inspiron 5401\-9039 14\'\' Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10;4199.00
+559;"HP Pavilion Gaming 15\-ec0042nw 15,6\"" AMD Ryzen 5 3550H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3799.00
+560;"Lenovo IdeaPad 5 14IIL05 14\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 256GB Dysk \- Win10";3899.00
+561;LG Gram 15,6\'\' 2020 15Z90N\-V.AR53Y Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB SSD Dysk \- Win10;4690.00
+562;ASUS TUF Gaming A15 FA506IU\-HN304 15,6\'\'144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1660Ti Grafika;4699.00
+563;"MSI GE75 Raider 10SF\-276PL 17,3\"" 240Hz Intel® Core™ i7\-10875H \- 16GB RAM \- 1TB + 512GB Dysk \- RTX2070 Grafika \- Win10";8999.00
+564;"HP Envy x360 15\-ed0012nw 15,6\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- MX330 Grafika \- Win10";4899.00
+565;"MSI Modern 14 A10M\-465PL 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";3799.00
+566;"HP Pavilion 15\-ec1022nw 15,6\"" AMD Ryzen 7 4800H \- 8GB RAM \- 512GB Dysk \- GTX1650 Grafika";3999.00
+567;"Microsoft Surface Pro 7 12,3\"" Intel® Core™ i3\-1005G1 \- 4GB RAM \- 128GB Dysk \- Win10 (platynowy) + klawiatura (czarny)";3999.00
+568;LG Gram 15,6\'\' Intel® Core™ i5\-8265U \- 8GB RAM \- 512GB SSD Dysk \- Win10;5749.00
+569;"Huawei MateBook X Pro 13,9\"" Intel® Core™ i7\-8550U \- 16GB RAM \- 512GB Dysk \- MX150 Grafika \- Win10 Pro";6749.00
+570;"Lenovo V15 IIL 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10 Pro";3399.00
+571;"HP 14s\-dq1016nw 14\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10";3299.00
+572;"Lenovo Yoga S730\-13IML 13,3\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 512GB Dysk \- Win10";3999.00
+573;"Huawei MateBook X Pro 2019 13,9\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 512GB Dysk \- MX250 Grafika \- Win10";5699.00
+574;Dell Inspiron G5 15 5505\-6377 15,6\'\' 120Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- RX5600M Grafika \- Win10;5399.00
+575;"MSI Modern 14 A10M\-890PL 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10";3499.00
+576;"Lenovo Yoga S730\-13IML 13,3\"" Intel® Core™ i7\-10510U \- 8GB RAM \- 512GB Dysk \- Win10";4199.00
+577;"Lenovo IdeaPad S530\-13IWL 13,3\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 256GB Dysk \- MX150 Grafika \- Win10";4049.00
+578;"Apple Macbook Pro 13 2020 z Touch Bar 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 512GB Dysk \- macOS (gwiezdna szarość)";7499.00
+579;ASUS TUF Gaming A15 FA506II\-AL035T 15,6\'\' 144Hz AMD Ryzen 5 4600H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10;4499.00
+580;Apple Macbook 12 MNYH2ZE\/A Intel® Core™ m3 \- 8GB RAM \- 256GB Dysk \- OSX Sierra;6499.00
+581;"Lenovo Yoga S730\-13IWL 13,3\"" Intel® Core™ i5\-8265U \- 8GB RAM \- 256GB Dysk \- Win10";4099.00
+582;"Microsoft Surface Laptop 13,5\"" Intel® Core™ i5\-7200U \- 8GB RAM \- 256GB Dysk \- Win10 S";6499.00
+583;"Lenovo IdeaPad S530\-13IWL 13,3\"" Intel® Core™ i7\-8565U \- 8GB RAM \- 512GB Dysk \- Win10";4199.00
+584;"Lenovo Yoga C930\-13IKB 13,9\"" Intel® Core™ i7\-8550U \- 8GB RAM \- 256GB Dysk \- Win10";6199.00
+585;"ASUS ROG Zephyrus Duo 15 GX550LXS\-HC016T 15,6\"" Intel® Core™ i9\-10980HK \- 32GB \- 1TB SSD Dysk \- RTX2080S Grafika \- Win10";15299.00
+586;"ASUS VivoBook 15 X512JA\-BQ182 15,6\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk";3499.00
+587;"Lenovo Legion 5 15IMH05H 15,6\"" 120Hz Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- RTX2060 Grafika \- Win10";5499.00
+588;"Apple Macbook Air 13 2019 13,3\"" Intel® Core™ i5 \- 8GB RAM \- 256GB Dysk \- macOS (silver)";5899.00
+589;"HP 14s\-fq0013nw 14\"" AMD Ryzen 3 3250U \- 8GB RAM \- 512GB Dysk \- Win10";2499.00
+590;"Lenovo V17\-IIL 17,3\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 256GB Dysk \- Win10";3999.00
+591;"Acer Nitro 5 AN515\-44\-R314 15,6\"" 144Hz AMD Ryzen 5 4600H \- 16GB RAM \- 512GB Dysk \- GTX1650 Grafika";3699.00
+592;Dell Inspiron 5400\-6643 14\'\' Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10;4399.00
+593;"Lenovo V15 IIL 15,6\"" Intel® Core™ i5\-1035G1 \- 8GB RAM \- 512GB Dysk \- Win10 Pro";3699.00
+594;"MSI GE66 Raider 10SF\-035PL 15,6\"" 240Hz Intel® Core™ i7\-10750H \- 16GB RAM \- 1TB SSD Dysk \- RTX2070 Grafika \- Win10";10499.00
+595;"Microsoft Surface Laptop 3 13,5\"" Intel® Core™ i5\-1035G7 \- 8GB RAM \- 256GB Dysk \- Win10 (platynowy)";5199.00
+596;"MSI GF75 Thin 10SCSR\-098PL 17,3\"" 144Hz Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB Dysk \- GTX1650Ti Grafika \- Win10";4899.00
+597;"Lenovo ThinkBook 15p IMH 15,6\"" Intel® Core™ i5\-10300H \- 16GB RAM \- 512GB Dysk \- GTX1650MQ \- Win10 Pro";5999.00
+598;"Apple Macbook Pro 13 z Touch Bar 13,3\"" Intel® Core™ i5\-8259U \- 8GB RAM \- 256GB Dysk \- macOS 10.13";8549.00
+599;"Acer Nitro 5 AN515\-55\-5458 15,6\"" Intel® Core™ i5\-10300H \- 8GB RAM \- 512GB SSD Dysk \- GTX1650 Grafika \- Win10";4299.00
+600;"Dell XPS 13 9380 13,3\"" Intel® Core™ i7\-8565U \- 16GB RAM \- 512GB Dysk \- Win10";9699.00
+601;"ASUS VivoBook 14 D413IA\-EB499T 14\"" AMD Ryzen 5 4500U \- 8GB RAM \- 512GB Dysk \- Win10";3299.00
+602;"Dell XPS 13 9300\-8322 13,4\"" Intel® Core™ i7\-1065G7 \- 32GB RAM \- 2TB SSD Dysk \- Win10";13999.00
+603;"HP Envy 13\-aq1002nw 13,3\"" Intel® Core™ i7\-1065G7 \- 8GB RAM \- 512GB Dysk \- Win10";5199.00
+604;"Lenovo Yoga 920\-13IKB Glass 13,9\"" Intel® Core™ i5\-8250U \- 8GB RAM \- 256GB Dysk \- Win10";6799.00
+605;"Microsoft Surface Laptop 3 15\"" AMD Ryzen 5 3580U \- 8GB RAM \- 256GB Dysk \- Win10 (czarny)";6999.00
+606;"Dell XPS 13 2in1 7390\-4125 13,4\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";10999.00
+607;"HP Spectre x360 13\-aw0019nw 13,3\"" Intel® Core™ i7\-1065G7 \- 16GB RAM \- 512GB Dysk \- Win10";8299.00
+608;"Lenovo ThinkPad T14 Gen1 14\"" Intel® Core™ i5\-10210U \- 8GB RAM \- 256GB Dysk \- Win10 Pro";5999.00
