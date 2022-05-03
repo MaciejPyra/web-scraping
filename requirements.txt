@@ -1,0 +1,3 @@
+# requirements without versions
+beautifulsoup4
+pandas
