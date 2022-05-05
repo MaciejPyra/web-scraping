@@ -21,7 +21,7 @@ Please note that repo includes final source code and two Excels with results of 
 ### What is web scraping?
 
 <p align="center">
-  <img src="https://github.com/MaciejPyra/web-scraping/blob/main/Web_Scraping.jpeg" />
+  <img src="https://github.com/MaciejPyra/web-scraping/blob/main/Web_Scraping.JPG" />
 </p>
 
 Web scraping is useful if the public website you want to get data from doesn’t have an API or it does but provides only limited access to the data. Web scraping is the process of collecting structured web data in an automated, programming fashion.
