@@ -20,6 +20,10 @@ Please note that repo includes final source code and two Excels with results of 
 ## Intorduction
 ### What is web scraping?
 
+<p align="center">
+  <img src="https://github.com/MaciejPyra/web-scraping/blob/main/Web_Scraping.jpeg" />
+</p>
+
 Web scraping is useful if the public website you want to get data from doesn’t have an API or it does but provides only limited access to the data. Web scraping is the process of collecting structured web data in an automated, programming fashion.
 
 In general, web data extraction is used by people and businesses who want to make use of the vast amount of publicly available web data to make smarter decisions. Unlike the mundane, mind-numbing process of manually extracting data, web scraping uses intelligent automation to retrieve hundreds, millions, or even billions of data points from the internet’s seemingly endless frontier.
@@ -54,4 +58,3 @@ The whole process could be dived into 5 steps:
 6. Save the data in a CSV file
 
 Initially, tool makes HTTP requests respectively to www.euro.com.pl and www.komputronik.pl websites. The scraper loads the entire HTML code for the page in question. Then, received HTML is parsed by BeautifulSoup library and program starts automatic extraction of the interesting data from a given page. After analyzing one specific page, a link to the following one is searched for in its HTML. Thanks to that, tool is self-sufficient and program can jump between pages without user involvement. Finally, the most significant data is saved into a CSV format that is more useful to the end user.
-
